@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hudson Cunha
-- 👀 I’m interested in Flutter, Java and Kothin
+- 👀 I’m interested in Flutter, Java and Kotlin
 - 🌱 I’m currently learning new things about development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hudsoncunhadasilva7@gmail.com
